@@ -1,8 +1,8 @@
 # Ciphers
 Python Cryptographic Encryption Algorithms
 
-Cardano#.py - Cardano`s grid.
-HillCipher.py - Hill's algorithm.
-Playfair.py - Playfair`s algorithm.
-Port_Table.py - Port`s table.
-The_Vigener_Table.py - Vigener`s table.
+1. Cardano#.py - Cardano`s grid.
+2. HillCipher.py - Hill's algorithm.
+3. Playfair.py - Playfair`s algorithm.
+4. Port_Table.py - Port`s table.
+5. The_Vigener_Table.py - Vigener`s table.
